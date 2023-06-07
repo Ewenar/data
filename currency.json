@@ -1,0 +1,157 @@
+[{
+  "amount": 1,
+  "base": "EUR",
+  "date": "2023-06-05",
+  "rates": [
+    {
+      "id": "0",
+      "name":"AUD",
+	    "price": 1.6219
+    },
+    {
+      "id": "1",
+      "name":"BGN",
+	    "price": 1.9558
+    },
+    {
+      "id": "2",
+      "name":"BRL",
+	    "price": 5.2959
+    },
+    {
+      "id": "3",
+      "name":"CAD",
+	    "price": 1.4367
+    },
+    {
+      "id": "4",
+      "name":"CHF",
+	    "price": 0.9732
+    },
+    {
+      "id": "5",
+      "name":"CNY", 
+	    "price": 7.6062
+    },
+    {
+      "id": "6",
+      "name":"CZK", 
+	    "price": 23.573
+    },
+    {
+      "id": "7",
+      "name":"DKK", 
+	    "price": 7.4484
+    },
+    {
+      "id": "8",
+      "name":"GBP", 
+	    "price": 0.86323
+    },
+    {
+      "id": "9",
+      "name":"HKD", 
+	    "price": 8.3787
+    },
+    {
+      "id": "10",
+      "name":"HUF",
+	    "price": 369.28
+    },
+    {
+      "id": "11",
+      "name":"IDR", 
+	    "price": 15896
+    },
+    {
+      "id": "12",
+      "name":"ILS", 
+	    "price": 3.9996
+    },
+    {
+      "id": "13",
+      "name":"INR", 
+	    "price": 88.33
+    },
+    {
+      "id": "14",
+      "name":"ISK", 
+	    "price": 150.9
+    },
+    {
+      "id": "15",
+      "name":"JPY", 
+	    "price": 149.96
+    },
+    {
+      "id": "16",
+      "name":"KRW", 
+	    "price": 1396.49
+    },
+    {
+      "id": "17",
+      "name":"MXN", 
+	    "price": 18.7675
+    },
+    {
+      "id": "18",
+      "name":"MYR", 
+	    "price": 4.8933
+    },
+    {
+      "id": "19",
+      "name":"NOK", 
+	    "price": 11.8275
+    },
+    {
+      "id": "20",
+      "name":"NZD", 
+	    "price": 1.7662
+    },
+    {
+      "id": "21",
+      "name":"PHP", 
+	    "price": 60.067
+    },
+    {
+      "id": "22",
+      "name":"PLN", 
+	    "price": 4.4735
+    },
+    {
+      "id": "23",
+      "name":"RON", 
+	    "price": 4.9653
+    },
+    {
+      "id": "24",
+      "name":"SEK", 
+	    "price": 11.642
+    },
+    {
+      "id": "25",
+      "name":"SGD", 
+	    "price": 1.4451
+    },
+    {
+      "id": "26",
+      "name":"THB", 
+	    "price": 37.287
+    },
+    {
+      "id": "27",
+      "name":"TRY", 
+	    "price": 22.696
+    },
+    {
+      "id": "28",
+      "name":"USD", 
+	    "price": 1.069
+    },
+    {
+      "id": "29",
+      "name":"ZAR", 
+	    "price": 20.686
+    }
+  ]
+}]
